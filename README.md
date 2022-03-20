@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there friends👋
 
 <!--
 **shahnawaz-ahmad19/shahnawaz-ahmad19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
