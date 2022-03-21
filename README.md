@@ -25,6 +25,7 @@
 
 
 ![Shahnawaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahnawaz-ahmad19&theme=slateorange&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahnawaz-ahmad19&theme=slateorange)](https://git.io/streak-stats)
 
 
           
