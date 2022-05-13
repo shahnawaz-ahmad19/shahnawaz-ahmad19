@@ -35,8 +35,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnawaz-ahmad19&theme=slateorange" alt="shahnawaz-ahmad19" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahnawaz-ahmad19&theme=slateorange&show_icons=true&locale=en" alt="shahnawaz-ahmad19" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnawaz-ahmad19&theme=slateorange" alt="shahnawaz-ahmad19" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shahnawaz-ahmad19&theme=slateorange&show_icons=true&locale=en" alt="shahnawaz-ahmad19" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahnawaz-ahmad19&theme=slateorange&show_icons=true&locale=en&layout=compact" alt="shahnawaz-ahmad19" /></p>
 
 
