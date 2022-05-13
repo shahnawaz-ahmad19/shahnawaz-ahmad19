@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Shahnawaz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"> <img src="https://crazydevelopers.in/wp-content/uploads/2021/09/cms-website-development-service.gif" alt="shahnawaz-ahmad19"  width="400"/> 
+<img align="right"> <img src="https://crazydevelopers.in/wp-content/uploads/2021/09/cms-website-development-service.gif" alt="shahnawaz-ahmad19"  width="250"/> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahnawaz-ahmad19&label=Profile%20views&color=0e75b6&style=flat" alt="shahnawaz-ahmad19" /> </p>
@@ -36,8 +36,8 @@
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnawaz-ahmad19&theme=slateorange" alt="shahnawaz-ahmad19" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahnawaz-ahmad19&theme=slateorange&show_icons=true&locale=en" alt="shahnawaz-ahmad19" /><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahnawaz-ahmad19&theme=slateorange&show_icons=true&locale=en&layout=compact" alt="shahnawaz-ahmad19" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahnawaz-ahmad19&theme=slateorange&show_icons=true&locale=en" alt="shahnawaz-ahmad19" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahnawaz-ahmad19&theme=slateorange&show_icons=true&locale=en&layout=compact" alt="shahnawaz-ahmad19" /></p>
 
 
 
