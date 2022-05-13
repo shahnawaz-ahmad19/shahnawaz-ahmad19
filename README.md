@@ -1,22 +1,23 @@
 <h1 align="center">Hi there👋, I'm Shahnawaz</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"> <img src="https://crazydevelopers.in/wp-content/uploads/2021/09/cms-website-development-service.gif" alt="shahnawaz-ahmad19"  width="250"/> 
-
-
+<img align="right" width="350" alt="coding" src="https://crazydevelopers.in/wp-content/uploads/2021/09/cms-website-development-service.gif" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahnawaz-ahmad19&label=Profile%20views&color=0e75b6&style=flat" alt="shahnawaz-ahmad19" /> </p>
 
 - 🌱 I’m currently learning **Javascript and DevOps**
 
 - 💬 Ask me about **Python,HTML,CSS,Javascript**
 
-- 📫 How to reach me **https://twitter.com/shnwz68**
+- 📫 Connect with  me on [**Twitter**](https://twitter.com/shnwz68)
+
+- :standing_man:  I  enjoy Reading📖 Travelling🧳 Exploring💡
+
+- 😄 Pronouns: **He/His**
 
 - ⚡ Fun fact: **I love cooking because I believe the best food is home made❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@shnwz68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shnwz68" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shnwz68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shnwz68" height="30" width="40" /></a>
+<a href="https://twitter.com/@shnwz68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shnwz68" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/shnwz68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shnwz68" height="45" width="45" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,10 +34,8 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a></p>
 
-
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnawaz-ahmad19&theme=slateorange" alt="shahnawaz-ahmad19" height="300" width="400" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahnawaz-ahmad19&theme=slateorange&show_icons=true&locale=en" alt="shahnawaz-ahmad19" height="400" width="400"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahnawaz-ahmad19&theme=slateorange&show_icons=true&locale=en" alt="shahnawaz-ahmad19" height="300" width="400"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahnawaz-ahmad19&theme=slateorange&show_icons=true&locale=en&layout=compact" alt="shahnawaz-ahmad19" /></p>
 
 
