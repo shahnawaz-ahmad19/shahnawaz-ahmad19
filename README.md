@@ -2,9 +2,9 @@
 <img align="right" width="350" alt="coding" src="https://crazydevelopers.in/wp-content/uploads/2021/09/cms-website-development-service.gif" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahnawaz-ahmad19&label=Profile%20views&color=0e75b6&style=flat" alt="shahnawaz-ahmad19" /> </p>
 
-- 🌱 I’m currently learning **Javascript and DevOps**
+- 🌱 I’m currently learning **SpringBoot and React**
 
-- 💬 Ask me about **Python,HTML,CSS,Javascript**
+- 💬 Ask me about **JAVA,HTML,CSS,Javascript,React**
 
 - 📫 Connect with  me on [**Twitter**](https://twitter.com/shnwz68)
 
